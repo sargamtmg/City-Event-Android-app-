@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">project_test</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_show_in_map">Map</string>
+    <string name="title_activity_view_design">Map</string>
+    <string name="title_activity_display_view">Map</string>
+</resources>
